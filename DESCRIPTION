@@ -1,0 +1,10 @@
+Package: outlieranalysis
+Type: Package
+Title: Detects outliers in a dataset and gives the outlier count for each variable in th dataset
+Version: 0.1.0
+Author: Deepshikha Sharma 
+Maintainer: Deepshikha Sharma <deepshikhabsharma@gmail.com>
+Description: Detects outliers in a dataset and gives the outlier count for each variable in th dataset.
+License: GPL-3
+Encoding: UTF-8
+LazyData: FLASE
